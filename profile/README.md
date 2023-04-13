@@ -38,7 +38,7 @@
 <br>
 
 ---
-style=for-the-badge
+
 ## ✨ 기술스택 
 
 #### FRONT-END
