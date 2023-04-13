@@ -1,10 +1,8 @@
 
 ![배너](https://github.com/Access-projcet/.github/blob/main/banner.png)
 
-# VISIT US !!
-
 <div align="center">
-    <h1>눈치 코치 캐치 : TRY'S KETCH !</h1>
+    <h1> VISIT US </h1>
 </div>
 
 ## 👩‍👧‍👧 프로젝트 소개
