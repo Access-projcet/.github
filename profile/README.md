@@ -1,9 +1,7 @@
-
-![배너](https://github.com/Access-projcet/.github/blob/main/banner.png)
-
 <div align="center">
     <h1> VISIT US </h1>
 </div>
+![배너](https://github.com/Access-projcet/.github/blob/main/banner.png)
 
 ## 👩‍👧‍👧 프로젝트 소개
 
