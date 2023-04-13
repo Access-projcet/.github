@@ -22,7 +22,7 @@
 ##### 👉🏻 [백엔드 바로가기](https://github.com/Access-projcet/BackEnd)
 <br>
 
-## 🌈 대표사진
+## 🍅 내용 보기
 ![Group](https://github.com/Access-projcet/.github/blob/main/guest_main.png)
 <br>
 
