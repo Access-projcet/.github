@@ -3,12 +3,12 @@
 </div>
 
 ![배너](https://github.com/Access-projcet/.github/blob/main/banner.png)
+
 <br>
 <br>
 
 ## 👩‍👧‍👧 프로젝트 소개
-
-
+<br>
 - **VISIT US 는 어떠한 서비스 인가요?**
     - 저희 서비스는 QR코드 출입과 간편한 방문예약, 출입관리와 보안까지 아우르는
     회사 출입방문 시스템 VISIT US 입니다.
@@ -22,8 +22,18 @@
 ##### 👉🏻 [백엔드 바로가기](https://github.com/Access-projcet/BackEnd)
 <br>
 
+---
+
+## 📒 개발기간
+
+<br>
+
+---
+
 ## 🍅 내용 보기
+
 ![Group](https://github.com/Access-projcet/.github/blob/main/guest_main.png)
+
 <br>
 
 ---
@@ -34,7 +44,24 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=appveyor&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=appveyor&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=appveyor&logo=JavaScript&logoColor=black"/> <br> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=appveyor&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=appveyor&logo=Axios&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=appveyor&logo=GitHub Actions&logoColor=white"/>
 
 #### BACK-END
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=appveyor&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=appveyor&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=appveyor&logo=Spring Security&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=appveyor&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=appveyor&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=appveyor&logo=Spring Security&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=appveyor&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=appveyor&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=appveyor&logo=Amazon RDS&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=appveyor&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=appveyor&logo=GitHub Actions&logoColor=white"/>
 <br>
+
+---
+
+## ERD
+
+![ERD](https://github.com/Access-projcet/.github/blob/main/ERD.png)
+
+---
+
+## 🔧 서비스 아키텍처
+![아키텍처](https://user-images.githubusercontent.com/97332044/217025165-06c7a429-ad98-45f1-92db-5433a5317837.png)
+<br>
+
+
+## 😺 멤버
+
