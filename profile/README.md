@@ -23,7 +23,7 @@
 <br>
 
 ## 🌈 대표사진
-![Group 126]()
+![Group](https://github.com/Access-projcet/.github/blob/main/guest_main.png)
 <br>
 
 ---
