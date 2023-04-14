@@ -34,7 +34,7 @@
 
 ## 🍅 내용 보기
 
-![Group](https://github.com/Access-projcet/.github/blob/main/guest_main.png)
+![Group](https://github.com/Access-projcet/.github/blob/main/Whole_content.jpg)
 
 <br>
 
