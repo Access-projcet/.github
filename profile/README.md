@@ -40,35 +40,14 @@
 
 ---
 
-## ✨ 기술스택 
+<h2>🏡팀원 소개</h2>
 
-#### FRONT-END
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <br> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
-
-#### BACK-END
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
-
-<br>
-
----
-
-## ERD
-
-![ERD](https://github.com/Access-projcet/.github/blob/main/ERD.png)
-
----
-
-## 🔧 서비스 아키텍처
-![아키텍처](https://github.com/Access-projcet/.github/blob/main/%EC%B5%9C%EC%A2%85%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.drawio.png)
-<br>
-
----
-
-## 💬 기술적 의사 결정
-<br>
-
----
-
-## 🔎 트러블슈팅
-<br>
+|이름|github|position|
+|------|---|---|
+|이승렬|https://github.com/|팀장*BE|
+|조민성|https://github.com/|BE|
+|김진원|https://github.com/|BE|
+|첨기범|https://github.com/|부팀장*FE|
+|이신행|https://github.com/|FE|
+|전찬열|https://github.com/|FE|
+|한송이||UX/UI|
