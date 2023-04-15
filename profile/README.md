@@ -32,14 +32,6 @@
 
 ---
 
-## 🍅 내용 보기
-
-![Group](https://github.com/Access-projcet/.github/blob/main/Whole_content.jpg)
-
-<br>
-
----
-
 <h2>🏡팀원 소개</h2>
 
 |이름|github|position|
