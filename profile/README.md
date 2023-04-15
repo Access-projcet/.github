@@ -36,10 +36,10 @@
 
 |이름|github|position|
 |------|---|---|
-|이승렬|https://github.com/|팀장*BE|
-|조민성|https://github.com/|BE|
-|김진원|https://github.com/|BE|
-|첨기범|https://github.com/|부팀장*FE|
-|이신행|https://github.com/|FE|
-|전찬열|https://github.com/|FE|
-|한송이||UX/UI|
+|이승렬|https://github.com/|BackEnd(팀장)|
+|조민성|https://github.com/|BackEnd|
+|김진원|https://github.com/|BackEnd|
+|첨기범|https://github.com/|FrontEnd(부팀장)|
+|이신행|https://github.com/|FrontEnd|
+|전찬열|https://github.com/|FrontEnd|
+|한송이||Designer|
