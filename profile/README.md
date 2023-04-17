@@ -39,7 +39,7 @@
 |이승렬|https://github.com/LEESEUNGRYEOL|BackEnd(팀장)|
 |조민성|https://github.com/Ganpyeon|BackEnd|
 |김진원|https://github.com/skwwnl|BackEnd|
-|첨기범|https://github.com/Gnar-dev|FrontEnd(부팀장)|
+|천기범|https://github.com/Gnar-dev|FrontEnd(부팀장)|
 |이신행|https://github.com/akfangus|FrontEnd|
 |전찬열|https://github.com/chanyeol123|FrontEnd|
 |한송이||Designer|
